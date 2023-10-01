@@ -13,7 +13,7 @@
 1. Download `pray_compiler.zip` from the latest release
 2. Extract the compiler
 3. Write code with `.🙏` extension
-4. Compile the code code
+4. Compile the code
 ```
 ./pray_compiler [input_file.🙏] [output_file]
 ```
